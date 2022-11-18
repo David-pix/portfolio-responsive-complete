@@ -163,6 +163,7 @@ img {
 
 .nav__logo {
   color: blue;
+  text-shadow: 3px 3px 4px grey;
 }
 
 .nav__toggle {
